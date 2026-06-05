@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 2. Clone this repository to your machine:
    ```bash
-   git clone https://github.com
+   git clone https://github.com/usmanali9999/Hockey-Teams-WebScraper.git
    cd Hockey-Teams-WebScraper
    ```
 
